@@ -177,7 +177,10 @@
 --resource:"C:\Users\epicodus\Desktop\ToDoList\src\ToDoList\obj\Debug\netcoreapp1.0\ToDoListdotnet-compile.deps.json",ToDoList.deps.json
 C:\Users\epicodus\Desktop\ToDoList\src\ToDoList\Program.cs
 C:\Users\epicodus\Desktop\ToDoList\src\ToDoList\Startup.cs
+C:\Users\epicodus\Desktop\ToDoList\src\ToDoList\Controllers\CategoriesController.cs
 C:\Users\epicodus\Desktop\ToDoList\src\ToDoList\Controllers\HomeController.cs
 C:\Users\epicodus\Desktop\ToDoList\src\ToDoList\Controllers\ItemsController.cs
+C:\Users\epicodus\Desktop\ToDoList\src\ToDoList\Models\Category.cs
 C:\Users\epicodus\Desktop\ToDoList\src\ToDoList\Models\Item.cs
 C:\Users\epicodus\Desktop\ToDoList\src\ToDoList\Models\ToDoListContext.cs
+C:\Users\epicodus\Desktop\ToDoList\src\ToDoList\ViewModels\TaskCategoryViewModel.cs
