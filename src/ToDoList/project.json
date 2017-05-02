@@ -1,19 +1,24 @@
 {
+  "version": "1.0.0-*",
+  "testRunner": "xunit",
   "dependencies": {
-    "Microsoft.NETCore.App": {
-      "version": "1.0.1",
-      "type": "platform"
-    },
+    "dotnet-test-xunit": "2.2.0-beta2-build3300",
     "Microsoft.AspNetCore.Diagnostics": "1.0.0",
     "Microsoft.AspNetCore.Mvc": "1.0.0",
     "Microsoft.AspNetCore.Server.IISIntegration": "1.0.0",
     "Microsoft.AspNetCore.Server.Kestrel": "1.0.1",
-    "Microsoft.Extensions.Logging.Console": "1.0.0",
+    "Microsoft.AspNetCore.StaticFiles": "1.0.0",
     "Microsoft.EntityFrameworkCore": "1.0.0",
     "Microsoft.EntityFrameworkCore.SqlServer": "1.0.0",
     "Microsoft.Extensions.Configuration.FileExtensions": "1.0.0",
     "Microsoft.Extensions.Configuration.Json": "1.0.0",
-    "Microsoft.AspNetCore.StaticFiles": "1.0.0"
+    "Microsoft.Extensions.Logging.Console": "1.0.0",
+    "Microsoft.NETCore.App": {
+      "version": "1.0.1",
+      "type": "platform"
+    },
+    "NETStandard.Library": "1.6.0",
+    "xunit": "2.1.0"
   },
 
   "tools": {
@@ -24,10 +29,11 @@
     "netcoreapp1.0": {
       "imports": [
         "dotnet5.6",
+        "dnxcore50",
         "portable-net45+win8"
       ]
-    }
-  },
+      }
+    },
 
   "buildOptions": {
     "emitEntryPoint": true,
