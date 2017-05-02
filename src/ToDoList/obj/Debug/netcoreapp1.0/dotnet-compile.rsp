@@ -212,4 +212,6 @@ C:\Users\epicodus\Desktop\ToDoList\src\ToDoList\Migrations\ToDoListContextModelS
 C:\Users\epicodus\Desktop\ToDoList\src\ToDoList\Models\Category.cs
 C:\Users\epicodus\Desktop\ToDoList\src\ToDoList\Models\Item.cs
 C:\Users\epicodus\Desktop\ToDoList\src\ToDoList\Models\ToDoListContext.cs
+C:\Users\epicodus\Desktop\ToDoList\src\ToDoList\Models\Repositories\EFItemRepository.cs
+C:\Users\epicodus\Desktop\ToDoList\src\ToDoList\Models\Repositories\IItemRepository.cs
 C:\Users\epicodus\Desktop\ToDoList\src\ToDoList\ViewModels\TaskCategoryViewModel.cs
